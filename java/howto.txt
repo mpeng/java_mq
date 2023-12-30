@@ -1,0 +1,2 @@
+1. run buildxxxx.bat first
+2. runr runxxxx.bat next 
