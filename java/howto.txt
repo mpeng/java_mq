@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+-----------------------------------
+
 1. build.bat
 2. buildWorker.bat
 3. buildExchange.bat
@@ -6,7 +7,10 @@
 5. buildTopic.bat
 6. buildRPC.bat
 7. buildPublisherConfirm.bat
-=======
+
+-----------------------------------
+
 1. run buildxxxx.bat first
 2. runr runxxxx.bat next 
->>>>>>> 0d40fc9e8f4c2a72dc1bb2e5edc5e6ea6584bc1c
+
+-----------------------------------
