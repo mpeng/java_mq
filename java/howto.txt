@@ -1,0 +1,7 @@
+1. build.bat
+2. buildWorker.bat
+3. buildExchange.bat
+4. buildExchangeRouting.bat
+5. buildTopic.bat
+6. buildRPC.bat
+7. buildPublisherConfirm.bat
